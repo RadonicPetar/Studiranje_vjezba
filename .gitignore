@@ -1,0 +1,5 @@
+# Ignoriramo privremene datoteke
+temporary.tmp
+
+# Ignoriramo cijeli folder logs i sve što je u njemu
+logs/
